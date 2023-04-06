@@ -25,7 +25,7 @@ Bachelor of Science in Computer Science & Engineering (Bs.CSE), United Internati
 
 ### Apart from my academic achievements, I have few noteworthy awards in sports which I received throughout the years.<br>
 --------------------------------
-#### 🏅 Gold Medal in Long Jump & Runner-Up crest in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Bangladesh.<br>
+#### 🏅 Gold Medal in Long Jump & Runner-Up Crest in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Bangladesh.<br>
 #### 🏅 2 Runner-Up Medals & Best Emerging Player Medal in Football tournaments.<br><br>
 
 ## 📈 Interests:
