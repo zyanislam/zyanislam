@@ -13,12 +13,17 @@ Created projects using PHP and MySQL<br>Developed a portfolio website showcasing
 
 ## 🎓 Education:
 Completed O Level & A Level in 2016 & 2018 respectivly.<br>
-Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University (expected graduation date: August 2023)<br><br>
+Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University (expected graduation date: August 2023).<br><br>
 
 ## 🏆 Achievements
-In 2017, I got The Daily Star Award for achieving an outstanding result in O Level with 4 A*'s (A Star) & 2 A's.<br>
-In United International University (undergraduation), my team was the 1st Runner-Up in Computer Networks Lab in the CSE Project Show of Summer 2022.<br>
-I have received multiple scholarships throughout the course of my undergradution at United International University for achieving outstanding result each trimester.<br><br>
+### The Daily Star Award 2017 for achieving an outstanding result in O Level with 4 A*'s (A Star) & 2 A's.<br><br>
+### 1st Runner-Up in Computer Networks Lab in the CSE Project Show of Summer 2022, United International University, Bangladesh(Undergraduation).<br><br>
+### Multiple scholarships throughout the course of my undergradution at United International University, Bangladesh for achieving outstanding result each trimester.<br><br>
+### Credit in Computer Skills (Class 6) in International Assessment for Schools (IAL Exams) held in 2010 from BAF Shaheen English Medium School, Bangladesh.<br><br>
+
+### Apart from my academic achievements, I have few noteworthy awards in sports which I received throughout the years.<br>
+Gold Medal in Long Jump & Runner-Up crest in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Bangladesh.<br>
+2 Runner-Up Medals & Best Emerging Player Medal in Football tournaments.<br><br>
 
 ## 📈 Interests:
 Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. I love coding and solving problems through it. Working on new innovative and useful projects. In my leisure time, I like to read books & watch videos on technology and design, and I'm an avid fan of football (Arsenal & Real Madrid all the way!).<br><br>
