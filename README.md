@@ -2,7 +2,13 @@
 Hello, I'm a web application developer with a keen interest in UI design. Currently based in Dhaka, Bangladesh, I'm about to finish my undergraduate studies.<br><br> 
 
 ## 🎯Skills:
-Proficient in web application development using HTML, CSS, and JavaScript<br>Good understanding of UI/UX design principles<br>Familiarity with front-end frameworks like React and Angular<br>Experience working with back-end technologies such as Node.js and MongoDB<br>Knowledge of Git and version control<br><br>Projects:<br>Created projects using PHP and MySQL<br>Developed a portfolio website showcasing my design skills using HTML, CSS, and JavaScript<br>Built a chat application using React and Firebase<br><br>Education:<br>Bachelor of Science in Computer Science, United International University (expected graduation date: August 2023)<br><br>Interests<br>Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. In my free time, I like to read books on technology and design, and I'm an avid fan of football..
+Proficient in web application development using HTML, CSS, and JavaScript<br>Good understanding of UI/UX design principles<br>Familiarity with front-end frameworks like React and Angular<br>Experience working with back-end technologies such as Node.js and MongoDB<br>Knowledge of Git and version control<br><br>
+
+## 👨‍💻 Projects:
+Created projects using PHP and MySQL<br>Developed a portfolio website showcasing my design skills using HTML, CSS, and JavaScript<br>Built a chat application using React and Firebase<br><br>Education:<br>Bachelor of Science in Computer Science, United International University (expected graduation date: August 2023)<br><br>
+
+## 📈 Interests:
+Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. In my free time, I like to read books on technology and design, and I'm an avid fan of football..
 
 
 ## 🌐 Socials:
