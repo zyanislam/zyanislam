@@ -12,7 +12,13 @@ Proficient in web application development using HTML, CSS, and JavaScript<br>Goo
 Created projects using PHP and MySQL<br>Developed a portfolio website showcasing my design skills using HTML, CSS, and JavaScript<br>Built a chat application using React and Firebase<br>Writing Shell Scripts and Process Scheduling Codes in Java.<br><br>
 
 ## 🎓 Education:
+Completed O Level & A Level in 2016 & 2018 respectivly.
 Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University (expected graduation date: August 2023)<br><br>
+
+## 🏆 Achievements
+In 2017, I got The Daily Star Award for achieving an outstanding result in O Level with 4 A*'s (A Star) & 2 A's.
+In United International University (undergraduation), my team was the 1st Runner-Up in Computer Networks Lab in the CSE Project Show of Summer 2022.
+I have received multiple scholarships throughout the course of my undergradution at United International University for achieving outstanding result overall.
 
 ## 📈 Interests:
 Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. I love coding and solving problems through it. Working on new innovative and useful projects. In my leisure time, I like to read books & watch videos on technology and design, and I'm an avid fan of football (Arsenal & Real Madrid all the way!).<br><br>
