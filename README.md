@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hello, I'm a web application developer with a keen interest in UI design. Currently based in Dhaka, Bangladesh, I'm about to finish my undergraduate studies.<br><br> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zyanislam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -16,7 +15,7 @@ Created projects using PHP and MySQL<br>Developed a portfolio website showcasing
 Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University (expected graduation date: August 2023)<br><br>
 
 ## 📈 Interests:
-Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. In my free time, I like to read books on technology and design, and I'm an avid fan of football..
+Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. In my free time, I like to read books on technology and design, and I'm an avid fan of football..<br><br>
 
 
 ## 🌐 Socials:
