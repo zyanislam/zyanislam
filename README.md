@@ -10,7 +10,7 @@ Hello, I'm a web application developer with a keen interest in UI design. Curren
 Proficient in web application development using HTML, CSS, and JavaScript<br>Good understanding of UI/UX design principles<br>Familiarity with front-end frameworks like React and Angular<br>Experience working with back-end technologies such as Node.js and MongoDB<br>Knowledge of Git and version control<br><br>
 
 ## 👨‍💻 Projects:
-Created projects using PHP and MySQL<br>Developed a portfolio website showcasing my design skills using HTML, CSS, and JavaScript<br>Built a chat application using React and Firebase<br>Writing Shell Scripts and Process Scheduling Codes in Java.<br>
+Created projects using PHP and MySQL<br>Developed a portfolio website showcasing my design skills using HTML, CSS, and JavaScript<br>Built a chat application using React and Firebase<br>Writing Shell Scripts and Process Scheduling Codes in Java.<br><br>
 
 ## 🎓 Education:
 Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University (expected graduation date: August 2023)<br><br>
