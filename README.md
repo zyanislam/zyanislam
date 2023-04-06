@@ -8,7 +8,7 @@ Proficient in web application development using HTML, CSS, and JavaScript<br>Goo
 Created projects using PHP and MySQL<br>Developed a portfolio website showcasing my design skills using HTML, CSS, and JavaScript<br>Built a chat application using React and Firebase<br><br>
 
 ## 🎓 Education:
-Bachelor of Science in Computer Science, United International University (expected graduation date: August 2023)<br><br>
+Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University (expected graduation date: August 2023)<br><br>
 
 ## 📈 Interests:
 Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. In my free time, I like to read books on technology and design, and I'm an avid fan of football..
