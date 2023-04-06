@@ -15,7 +15,7 @@ Created projects using PHP and MySQL<br>Developed a portfolio website showcasing
 Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University (expected graduation date: August 2023)<br><br>
 
 ## 📈 Interests:
-Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. In my free time, I like to read books on technology and design, and I'm an avid fan of football..<br><br>
+Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. I love coding and solving problems through it. Working on new innovative and useful projects. In my leisure time, I like to read books & watch videos on technology and design, and I'm an avid fan of football (Arsenal & Real Madrid all the way!).<br><br>
 
 
 ## 🌐 Socials:
