@@ -12,8 +12,10 @@ Proficient in web application development using HTML, CSS, and JavaScript<br>Goo
 Created projects using PHP and MySQL<br>Developed a portfolio website showcasing my design skills using HTML, CSS, and JavaScript<br>Built a chat application using React and Firebase<br>Writing Shell Scripts and Process Scheduling Codes in Java.<br><br>
 
 ## 🎓 Education:
-Completed O Level & A Level in 2016 & 2018 respectivly.<br>
-Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University (expected graduation date: August 2023).<br><br>
+
+#### Attended BAF Shaheen English Medium School, Dhaka, Bangladesh.
+#### Completed O Level & A Level in 2016 & 2018 respectivly from British Council, Dhaka, Bangladesh.<br>
+#### Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University (expected graduation date: August 2023).<br><br>
 
 ## 🏆 Achievements
 ### Academic Achievements <br>
@@ -21,17 +23,17 @@ Bachelor of Science in Computer Science & Engineering (Bs.CSE), United Internati
 #### 🏅 The Daily Star Award 2017 for achieving an outstanding result in O Level with 4 A*'s (A Star) & 2 A's.<br><br>
 #### 🏅 1st Runner-Up in Computer Networks Lab in the CSE Project Show of Summer 2022, United International University, Bangladesh(Undergraduation).<br><br>
 #### 🎖️ Multiple scholarships throughout the course of my undergradution at United International University, Bangladesh for achieving outstanding result each trimester.<br><br>
-#### 🎖️ Credit in Computer Skills (Class 6) in International Assessment for Schools (IAL Exams) held in 2010 from BAF Shaheen English Medium School, Bangladesh.<br><br>
+#### 🎖️ Credit in Computer Skills (Class 6) in International Assessment for Schools (IAL Exams) held in 2010 from BAF Shaheen English Medium School, Dhaka, Bangladesh.<br><br>
 
 ### Apart from my academic achievements, I have few noteworthy awards in sports which I received throughout the years.<br>
 --------------------------------
-#### 🏅 Gold Medal in Long Jump in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Bangladesh.<br>
-#### 🎖️ Runner-Up Crest in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Bangladesh.<br>
+#### 🏅 Gold Medal in Long Jump in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br>
+#### 🎖️ Runner-Up Crest in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br>
 #### 🏅 2 Runner-Up Medals in Football tournaments.<br>
 #### 🏅 Best Emerging Player Medal in Football tournaments.<br><br>
 
 ## 📈 Interests:
-Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. I love coding and solving problems through it. Working on new innovative and useful projects. In my leisure time, I like to read books & watch videos on technology and design, and I'm an avid fan of football (Arsenal & Real Madrid all the way!).<br><br>
+Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. I love coding and solving problems through it. Working on new innovative and useful projects. In my leisure time, I like to read mangas, books & watch animes and videos on technology and design, and I'm an avid fan of football (Arsenal & Real Madrid all the way!). I also follow tennis & Baseball.<br><br>
 
 
 ## 🌐 Socials:
