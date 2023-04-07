@@ -13,7 +13,7 @@ Created projects using PHP and MySQL<br>Developed a portfolio website showcasing
 
 ## 🎓 Education:
 
-#### Attended BAF Shaheen English Medium School, Dhaka, Bangladesh.
+#### Attended BAF Shaheen English Medium School (from 2006-2014), Dhaka, Bangladesh.
 #### Completed O Level & A Level in 2016 & 2018 respectivly from British Council, Dhaka, Bangladesh.<br>
 #### Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University (expected graduation date: August 2023).<br><br>
 
