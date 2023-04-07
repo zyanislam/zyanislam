@@ -5,11 +5,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zyanislam&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyanislam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 👨‍💻 Projects:
+Created projects using PHP and MySQL<br>
+Developed a Portfolio website showcasing my design skills using HTML, CSS, React and JavaScript<br>
+Built a Chat Application using React and Firebase<br>
+Writing Shell Scripts and Process Scheduling Codes in Java.<br><br>
+
 ## 🎯 Skills:
 Proficient in web application development using HTML, CSS, and JavaScript<br>Good understanding of UI/UX design principles<br>Familiarity with front-end frameworks like React and Angular<br>Experience working with back-end technologies such as Node.js and MongoDB<br>Knowledge of Git and version control<br><br>
-
-## 👨‍💻 Projects:
-Created projects using PHP and MySQL<br>Developed a portfolio website showcasing my design skills using HTML, CSS, and JavaScript<br>Built a chat application using React and Firebase<br>Writing Shell Scripts and Process Scheduling Codes in Java.<br><br>
 
 ## 🎓 Education:
 
