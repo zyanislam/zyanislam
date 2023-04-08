@@ -8,9 +8,9 @@
 ## 👨‍💻 Projects:
 Created projects using PHP and MySQL.<br>
 Developed a Portfolio website showcasing my design skills using HTML, CSS, React and JavaScript.<br>
-Build a Web Based Platform for Students to get updates about different kinds of opportunities from their Faculties using PHP, JavaScript, jQuery & MySQL.<br>
+Build a Web Based Platform for Students of an Institution to get updates about career opportunities from their Faculties using PHP, JavaScript, jQuery & MySQL.<br>
 Built a Chat Application using React and Firebase.<br>
-Built Virtual Air Canvas using OpenCV & Python.<br>
+Built a Virtual Air Canvas by tracking Hand using OpenCV & Python.<br>
 Wrote Shell Scripts and Process Scheduling Codes For Operating System in Java.<br><br>
 
 ## 🎯 Skills:
