@@ -6,18 +6,20 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyanislam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 👨‍💻 Projects:
-#### ⭐ Created projects using PHP and MySQL.<br><br>
+#### ⭐ Created Multiple Projects using HTML5, CSS3, Bootstrap, JavaScript, React, PHP and MySQL.<br><br>
 #### ⭐ Developed a Portfolio website showcasing my design skills using HTML, CSS, React and JavaScript.<br><br>
-#### ⭐ Build a Web Based Platform for Students of an Institution to get updates about career opportunities from their Faculties using PHP, JavaScript, jQuery & MySQL.<br><br>
+#### ⭐ Build a Web-Based Platform for Students to get updates about Career-Opportunities from Faculties using HTML, CSS, PHP, JavaScript, jQuery & MySQL.<br><br>
 #### ⭐ Built a Chat Application using React and Firebase.<br><br>
 #### ⭐ Built a Virtual Air Canvas by tracking Hand using OpenCV & Python.<br><br>
 #### ⭐ Wrote Shell Scripts and Process Scheduling Codes For Operating System in Java.<br><br>
 
 ## 🎯 Skills:
 Proficient in web application development using HTML, CSS, and JavaScript<br>
-Good understanding of UI/UX design principles<br>
-Familiarity with front-end frameworks like React.<br>
-Experience working with back-end technologies such as Node.js and MySQL<br>
+Good understanding of UI/UX Design Principles.<br>
+Great at coding in Python, Java, C, JavaScript & PHP.<br>
+Familiarity with Front-End Frameworks like React.<br>
+Experience working with Front-End & Back-End Projects such as PHP and MySQL<br>
+Experience working with Back-End technologies such as Node.js and MySQL<br>
 Knowledge of Git and version control<br><br><br>
 
 ## 🎓 Education:
