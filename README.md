@@ -9,7 +9,7 @@
 Created projects using PHP and MySQL.<br>
 Developed a Portfolio website showcasing my design skills using HTML, CSS, React and JavaScript.<br>
 Built a Chat Application using React and Firebase.<br>
-Writing Shell Scripts and Process Scheduling Codes in Java.<br><br>
+Wrote Shell Scripts and Process Scheduling Codes For Operating System in Java.<br><br>
 
 ## 🎯 Skills:
 Proficient in web application development using HTML, CSS, and JavaScript<br>Good understanding of UI/UX design principles<br>
