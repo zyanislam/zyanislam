@@ -12,9 +12,10 @@ Built a Chat Application using React and Firebase.<br>
 Wrote Shell Scripts and Process Scheduling Codes For Operating System in Java.<br><br>
 
 ## 🎯 Skills:
-Proficient in web application development using HTML, CSS, and JavaScript<br>Good understanding of UI/UX design principles<br>
-Familiarity with front-end frameworks like React and Angular<br>
-Experience working with back-end technologies such as Node.js and MongoDB<br>
+Proficient in web application development using HTML, CSS, and JavaScript<br>
+Good understanding of UI/UX design principles<br>
+Familiarity with front-end frameworks like React.<br>
+Experience working with back-end technologies such as Node.js and MySQL<br>
 Knowledge of Git and version control<br><br><br>
 
 ## 🎓 Education:
