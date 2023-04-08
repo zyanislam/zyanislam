@@ -11,6 +11,7 @@
 #### ⭐ Build a Web-Based Platform for Students to get updates about Career-Opportunities from Faculties using HTML, CSS, PHP, JavaScript, jQuery & MySQL.<br>
 #### ⭐ Built a Chat Application using React and Firebase.<br>
 #### ⭐ Built a Virtual Air Canvas by tracking Hand using OpenCV & Python.<br>
+#### ⭐ Build IoT Project for Computer Networks using Arduino & Firebase which achieved 1st Runner-Up position in CSE Project Show 2022.<br>
 #### ⭐ Wrote Shell Scripts and Process Scheduling Codes For Operating System in Java.<br><br>
 
 ## 🎯 Skills:
