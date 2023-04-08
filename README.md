@@ -6,12 +6,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyanislam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 👨‍💻 Projects:
-Created projects using PHP and MySQL.<br>
-Developed a Portfolio website showcasing my design skills using HTML, CSS, React and JavaScript.<br>
-Build a Web Based Platform for Students of an Institution to get updates about career opportunities from their Faculties using PHP, JavaScript, jQuery & MySQL.<br>
-Built a Chat Application using React and Firebase.<br>
-Built a Virtual Air Canvas by tracking Hand using OpenCV & Python.<br>
-Wrote Shell Scripts and Process Scheduling Codes For Operating System in Java.<br><br>
+#### Created projects using PHP and MySQL.<br><br>
+#### Developed a Portfolio website showcasing my design skills using HTML, CSS, React and JavaScript.<br><br>
+#### Build a Web Based Platform for Students of an Institution to get updates about career opportunities from their Faculties using PHP, JavaScript, jQuery & MySQL.<br><br>
+#### Built a Chat Application using React and Firebase.<br><br>
+#### Built a Virtual Air Canvas by tracking Hand using OpenCV & Python.<br><br>
+#### Wrote Shell Scripts and Process Scheduling Codes For Operating System in Java.<br><br>
 
 ## 🎯 Skills:
 Proficient in web application development using HTML, CSS, and JavaScript<br>
