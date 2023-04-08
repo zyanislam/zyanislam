@@ -18,9 +18,9 @@ Proficient in web application development using HTML, CSS, and JavaScript<br>
 Good understanding of UI/UX Design Principles.<br>
 Great at coding in Python, Java, C, JavaScript & PHP.<br>
 Familiarity with Front-End Frameworks like React.<br>
-Experience working with Front-End & Back-End Projects such as PHP and MySQL<br>
-Experience working with Back-End technologies such as Node.js and MySQL<br>
-Knowledge of Git and version control<br><br><br>
+Experience working with Front-End & Back-End Projects such as PHP and MySQL.<br>
+Experience working with Back-End technologies such as Node.js and MySQL.<br>
+Knowledge of Git and Version Control. Plus use GitHub Desktop for uploading & updating for all my Projects.<br><br>
 
 ## 🎓 Education:
 
