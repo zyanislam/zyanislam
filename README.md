@@ -10,6 +10,7 @@
 #### ⭐ Created Multiple Projects using HTML5, CSS3, Bootstrap, JavaScript, React, PHP and MySQL.<br>
 #### ⭐ Developed My Own Portfolio/CV showcasing my design skills and everything about me using HTML, CSS, React and JavaScript.<br>
 #### ⭐ Build a Web-Based Platform for Students to get updates about Career-Opportunities from Faculties using HTML, CSS, PHP, JavaScript, jQuery & MySQL.<br>
+#### ⭐ Build a Web-Based Platform for Students to keep track of their progress on academically & guide them to achieve their course goal using HTML, CSS, PHP, JavaScript & MySQL.<br>
 #### ⭐ Built a Chat Application using React and Firebase.<br>
 #### ⭐ Built a Virtual Air Canvas by tracking Hand using OpenCV & Python.<br>
 #### ⭐ Wrote Shell Scripts and Process Scheduling Codes For Operating System in Java.<br><br>
