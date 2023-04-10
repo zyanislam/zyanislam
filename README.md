@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyanislam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 👨‍💻 Projects:
-#### ⭐⭐ Build IoT Project for Computer Networks using Arduino & Firebase which achieved 1st Runner-Up position in CSE Project Show 2022.<br>
+#### ⭐⭐ Build IoT Project for Computer Networks using Arduino & displayed the data from the Firebase onto a webpage which achieved 1st Runner-Up position in CSE Project Show 2022.<br>
 #### ⭐ Created Multiple Projects using HTML5, CSS3, Bootstrap, JavaScript, React, PHP and MySQL.<br>
 #### ⭐ Developed My Own Portfolio/CV showcasing my design skills and everything about me using HTML, CSS, React and JavaScript.<br>
 #### ⭐ Build a Web-Based Platform for Students to get updates about Career-Opportunities from Faculties using HTML, CSS, PHP, JavaScript, jQuery & MySQL.<br>
