@@ -16,7 +16,7 @@
 #### ⭐ Wrote Shell Scripts and Process Scheduling Codes For Operating System in Java.<br><br>
 
 ## 🎯 Skills:
-Proficient in web application development using HTML, CSS, React and JavaScript<br>
+Proficient in web application development using HTML, CSS, React and JavaScript.<br>
 Good understanding of UI/UX Design Principles.<br>
 Great at coding in Python, Java, C, JavaScript & PHP.<br>
 Familiarity with Front-End Frameworks like React.<br>
