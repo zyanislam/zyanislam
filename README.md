@@ -46,7 +46,7 @@ Knowledge of Git and Version Control. Plus use GitHub Desktop for uploading & up
 #### 🏅 Best Emerging Player Medal in Football tournaments.<br><br>
 
 ## 📈 Interests:
-Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. I love coding and solving problems through it. Working on new innovative and useful projects. In my leisure time, I like to read mangas, books & watch animes and videos on technology and design, and I'm an avid fan of football (Arsenal & Real Madrid all the way!). I also follow Tennis & Baseball.<br><br>
+Apart from web development, I enjoy exploring new technologies and experimenting with new design ideas. I love coding and solving problems through it. Working on new innovative and useful projects. In my leisure time, I like to read mangas, books & watch animes and videos on technology and design, and I'm an avid fan of football (Arsenal & Real Madrid all the way!). I also follow Tennis & Baseball on a regular basis.<br><br>
 
 
 ## 🌐 Socials:
