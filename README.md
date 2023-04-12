@@ -38,7 +38,7 @@ Knowledge of Git and Version Control. Plus use GitHub Desktop for uploading & up
 #### 🎖️ Multiple scholarships throughout the course of my undergradution at United International University, Bangladesh for achieving outstanding result each trimester.<br><br>
 #### 🎖️ Credit in Computer Skills (Class 6) in International Assessment for Schools (IAL Exams) held in 2010 from BAF Shaheen English Medium School, Dhaka, Bangladesh.<br><br>
 
-### Apart from my academic achievements, I have few noteworthy awards in sports which I received throughout the years.<br>
+### Apart from my academic achievements, I have few noteworthy awards in sports which I received throughout the years <br>
 --------------------------------
 #### 🏅 Gold Medal in Long Jump in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br>
 #### 🎖️ Runner-Up Crest in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br>
