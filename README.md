@@ -1,9 +1,5 @@
 # 💫 About Me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zyanislam&label=Profile%20views&color=0e75b6&style=flat" alt="zyanislam" /> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyanislam&show_icons=true&locale=en&layout=compact" alt="zyanislam" /></p>
-
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=zyanislam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zyanislam&theme=nightowl&hide_border=false)<br/>
