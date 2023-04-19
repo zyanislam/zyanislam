@@ -31,14 +31,14 @@ Knowledge of Git and Version Control. Plus use GitHub Desktop for uploading & up
 #### Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University, Bangladesh (expected graduation date: August-September 2023).<br><br>
 
 ## 🏆 Achievements
-### Academic Achievements <br>
+### 📌 Academic Achievements <br>
 --------------------------------
 #### 🏅 The Daily Star Award 2017 for achieving an outstanding result in O Level with 4 A*'s (A Star) & 2 A's.<br><br>
 #### 🏅 1st Runner-Up in Computer Networks Lab in the CSE Project Show of Summer 2022, United International University, Bangladesh(Undergraduation).<br><br>
 #### 🎖️ Multiple scholarships throughout the course of my undergradution at United International University, Bangladesh for achieving outstanding result each trimester.<br><br>
 #### 🎖️ Level: Credit in Computer Skills (Class 6) in International Assessment for Schools (IAL Exams) held in 2010 from BAF Shaheen English Medium School, Dhaka, Bangladesh.<br><br>
 
-### Apart from my academic achievements, I have few noteworthy awards in sports which I received throughout the years <br>
+### 📌 Apart from my academic achievements, I have few noteworthy awards in sports which I received throughout the years <br>
 --------------------------------
 #### 🏅 Gold Medal in Long Jump in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br>
 #### 🎖️ Runner-Up Crest in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br>
