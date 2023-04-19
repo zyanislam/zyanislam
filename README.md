@@ -5,7 +5,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zyanislam&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zyanislam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-## 👨‍💻 Projects
+## 👨🏻‍💻 Projects
 #### ⭐⭐ Build IoT Project for Computer Networks using Arduino, appended & fetched the data from Firebase database onto a custom webpage which achieved 1st Runner-Up position in CSE Project Show 2022, United International University, Bangladesh.<br>
 #### ⭐ Created Multiple Projects using HTML5, CSS3, Bootstrap, JavaScript, React, PHP and MySQL.<br>
 #### ⭐ Developed My Own Portfolio/CV showcasing my design skills and everything about me using HTML, CSS, React and JavaScript.<br>
