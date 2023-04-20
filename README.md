@@ -31,6 +31,7 @@ Knowledge of Git and Version Control. Plus use GitHub Desktop for uploading & up
 #### Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University, Bangladesh (expected graduation date: August-September 2023).<br><br>
 
 ## 🏆 Achievements
+
 ### 📌 Academic Achievements <br>
 --------------------------------
 #### 🏅 The Daily Star Award 2017 for achieving an outstanding result in O Level with 4 A*'s (A Star) & 2 A's.<br><br>
@@ -94,7 +95,7 @@ Apart from application development & side projects, I enjoy exploring new techno
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
