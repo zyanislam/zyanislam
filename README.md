@@ -9,7 +9,7 @@
 
 #### ⭐⭐ Build IoT Project for Computer Networks using Arduino, appended & fetched the data from Firebase database onto a custom webpage which the students could scrutinize to see whether the Faculty is available or not which achieved 1st Runner-Up position in CSE Project Show 2022, United International University, Bangladesh.<br>
 #### ⭐ Created Multiple Projects using HTML5, CSS3, Bootstrap, JavaScript, React, PHP and MySQL.<br>
-#### ⭐ Developed My Own Portfolio/CV showcasing my design skills and everything about me using HTML, CSS, React and JavaScript.<br>
+#### ⭐ Developed My Own Portfolio/CV showcasing my design skills and background about me using HTML, CSS, React and JavaScript.<br>
 #### ⭐ Developed a Web-Based Platform for Students to get updates about Career-Opportunities from Faculties using HTML, CSS, PHP, JavaScript, jQuery & MySQL.<br>
 #### ⭐ Developed a Web-Based Platform for Students to keep track of their progress on academically & guide them to achieve their course goal using HTML, CSS, PHP, JavaScript & MySQL.<br>
 #### ⭐ Developed a Chat Application using React and Firebase.<br>
