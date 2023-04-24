@@ -43,9 +43,9 @@ Knowledge of Git and Version Control. Plus use GitHub Desktop for uploading & up
 
 ### 📌 Apart from my academic achievements, I have few noteworthy awards in sports which I received throughout the years <br>
 --------------------------------
-#### 🏅 Gold Medal in Long Jump in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br>
-#### 🎖️ Runner-Up Crest in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br>
-#### 🏅 2 Runner-Up Medals in Football tournaments.<br>
+#### 🏅 Gold Medal in Long Jump in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br><br>
+#### 🎖️ Runner-Up Crest in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br><br>
+#### 🏅 2 Runner-Up Medals in Football tournaments.<br><br>
 #### 🏅 Best Emerging Player Medal in Football tournaments.<br><br>
 
 ## 📈 Interests
