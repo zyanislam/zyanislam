@@ -13,7 +13,6 @@
 #### ⭐ Developed BASE: A Menu Driven Online Banking Application using Python.<br>
 #### ⭐ Developed a Web-Based Platform for Students to get updates about Career-Opportunities from Faculties using HTML, CSS, PHP, JavaScript, jQuery & MySQL.<br>
 #### ⭐ Developed a Web-Based Platform for Students to keep track of their progress on academically & guide them to achieve their course goal using HTML, CSS, PHP, JavaScript & MySQL.<br>
-#### ⭐ Developed CLUB: A Chat Application using React, Express and NodeJS.<br>
 #### ⭐ Developed a Virtual Air Canvas by tracking Hand using OpenCV & Python.<br>
 #### ⭐ Wrote Shell Scripts and Process Scheduling Codes For Operating System in Java.<br><br>
 
