@@ -8,6 +8,7 @@
 ## 👨🏻‍💻 Projects
 
 #### ⭐⭐ Build IoT Project for Computer Networks using Arduino, appended & fetched the data from Firebase database onto a custom webpage which the students could scrutinize to see whether the Faculty is available or not which achieved 1st Runner-Up position in CSE Project Show 2022, United International University, Bangladesh.<br>
+#### ⭐ Developed Project Management Tool using HTML, CSS, React and JavaScript.<br>
 #### ⭐ Created Multiple Projects using HTML5, CSS3, Bootstrap, JavaScript, React, PHP and MySQL.<br>
 #### ⭐ Developed My Own Portfolio/CV showcasing my design skills and background about me using HTML, CSS, React and JavaScript.<br>
 #### ⭐ Developed BASE: A Menu Driven Online Banking Application using Python.<br>
