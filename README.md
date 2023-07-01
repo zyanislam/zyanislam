@@ -27,11 +27,12 @@ Experience working with Front-End & Back-End Projects such as PHP and MySQL.<br>
 Experience working with Back-End technologies such as Node.js and MySQL.<br>
 Knowledge of Git and Version Control. Plus use GitHub Desktop for uploading & updating for all my Projects.<br><br>
 
-## 🎓 Education
+## 🎓 Education & Training
 
 #### Attended BAF Shaheen English Medium School (from 2006-2014), Dhaka, Bangladesh.<br>
 #### Completed O Level & A Level in 2016 & 2018 respectivly from British Council, Dhaka, Bangladesh.<br>
-#### Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University, Bangladesh (expected graduation date: August-September 2023).<br><br>
+#### Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University, Bangladesh (expected graduation date: August-September 2023).<br>
+#### Training to become a Software Quality Assurance & Testing Engineer (SQA Engineer) (on-going)*.<br><br>
 
 ## 🏆 Achievements
 
