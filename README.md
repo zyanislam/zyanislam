@@ -103,4 +103,4 @@ Apart from application development & side projects, I enjoy exploring new techno
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
-![](https://visitcount.itsvg.in/api?id=zyanislam&icon=9&color=12)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=zyanislam&icon=9&color=12)
