@@ -21,11 +21,11 @@
 ## 🎯 Skills
 Proficient in web application development using HTML, CSS, React and JavaScript.<br>
 Good understanding of UI/UX Design Principles.<br>
-Great at coding in Python, Java, C, JavaScript & PHP.<br>
-Familiarity with Front-End Frameworks like React.<br>
-Experience working with Front-End & Back-End Projects such as PHP and MySQL.<br>
-Experience working with Back-End technologies such as Node.js and MySQL.<br>
-Knowledge of Git and Version Control. Plus use GitHub Desktop for uploading & updating for all my Projects.<br><br>
+Great at coding in Python, Java, C, JavaScript, Arduino & PHP.<br>
+Familiarity with Frameworks/Libraries like React JS, React Native and Django.<br>
+Experience working with Frontend Projects & UI Designing with React JS, React Native, Bootstrap, Semantic UI & using Figma and Adobe XD respectively.<br>
+Experience working with Backend technologies such as PHP,Node.js and mySQL.<br>
+Knowledge of Git and Version Control. Plus using GitHub Desktop for uploading & updating for all my Projects everyday.<br><br>
 
 ## 🎓 Education & Training
 
