@@ -11,6 +11,7 @@
 #### ⭐ Developed My Own Portfolio showcasing my skills, background and qualifications using HTML, CSS, React JS and JavaScript.<br>
 #### ⭐ Developed a Virtual Air Canvas by tracking Hand using OpenCV & Python.<br>
 #### ⭐ Developing A Decentralize Chat Application using React JS, Ethereum & Solidity (on going). <br>
+#### ⭐ Developing A Decentralize File-Sharing Application using React JS, Ethereum, Ethers JS & Solidity (on going). <br>
 #### ⭐ Created Multiple Projects using HTML5, CSS3, Bootstrap, JavaScript, React, PHP and MySQL.<br>
 #### ⭐ Developed BASE: A Menu Driven Online Banking Application using Python.<br>
 #### ⭐ Developed a Web-Based Platform for Students to get updates about Career-Opportunities from Faculties using HTML, CSS, PHP, JavaScript, jQuery & MySQL.<br>
