@@ -30,7 +30,7 @@ Knowledge of Git and Version Control. Plus using GitHub Desktop for uploading & 
 
 #### Attended BAF Shaheen English Medium School (from 2006-2014), Dhaka, Bangladesh.<br>
 #### Completed O Level & A Level in 2016 & 2018 respectivly from British Council, Dhaka, Bangladesh.<br>
-#### Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University, Bangladesh (expected graduation date: August-September 2023).<br>
+#### Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University, Bangladesh.<br>
 #### Training to become a Software Quality Assurance & Testing Engineer (SQA Engineer) (on-going)*.<br><br>
 
 ## 🏆 Achievements
