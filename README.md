@@ -42,13 +42,6 @@ Knowledge of Git and Version Control. Plus using GitHub Desktop for uploading & 
 #### 🎖️ Multiple scholarships throughout the course of my undergradution at United International University, Bangladesh for achieving outstanding result each trimester.<br><br>
 #### 🎖️ Level: Credit in Computer Skills (Class 6) in International Assessment for Schools (IAL Exams) held in 2010 from BAF Shaheen English Medium School, Dhaka, Bangladesh.<br><br>
 
-### 📌 Apart from my academic achievements, I have few noteworthy awards in sports which I received throughout the years <br>
---------------------------------
-#### 🏅 Gold Medal in Long Jump in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br><br>
-#### 🎖️ Runner-Up Crest in Intermediate Group-A in the 2009-10 Inter-House Annual Sports Competition at BAF Shaheen English Medium School, Dhaka, Bangladesh.<br><br>
-#### 🏅 2 Runner-Up Medals in Football tournaments.<br><br>
-#### 🏅 Best Emerging Player Medal in Football tournaments.<br><br>
-
 ## 📈 Interests
 Apart from application development & side projects, I enjoy exploring new technologies and experimenting with new design ideas for applications using Figma. I have a passion for coding & solving problems through logics. Working on new innovative and useful projects. In my leisure time, I like to read mangas, books & watch animes and videos on technology and design, and I'm an avid fan of football (Arsenal & Real Madrid all the way!). On regular basis I follow the Tennis & Baseball.<br><br>
 
