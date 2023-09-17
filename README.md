@@ -30,7 +30,7 @@ Knowledge of Git and Version Control. Plus using GitHub Desktop for uploading & 
 
 #### Attended BAF Shaheen English Medium School (from 2006-2014), Dhaka, Bangladesh.<br>
 #### Completed O Level & A Level in 2016 & 2018 respectivly from British Council, Dhaka, Bangladesh.<br>
-#### Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University, Bangladesh.<br>
+#### Completed Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University, Bangladesh.<br>
 #### Training to become a Software Quality Assurance & Testing Engineer (SQA Engineer) (on-going)*.<br><br>
 
 ## 🏆 Achievements
@@ -38,12 +38,12 @@ Knowledge of Git and Version Control. Plus using GitHub Desktop for uploading & 
 ### 📌 Academic Achievements <br>
 --------------------------------
 #### 🏅 The Daily Star Award 2017 for achieving an outstanding result in O Level (Secondary School Certificate) with 4 A*'s (A Star) & 2 A's.<br><br>
-#### 🏅 1st Runner-Up in Computer Networks Lab in the CSE Project Show of Summer 2022, United International University, Bangladesh(Undergraduation).<br><br>
+#### 🏅 1st Runner-Up in Computer Networks Lab in the CSE Project Show of Summer 2022, United International University, Bangladesh (Undergraduation).<br><br>
 #### 🎖️ Multiple scholarships throughout the course of my undergradution at United International University, Bangladesh for achieving outstanding result each trimester.<br><br>
 #### 🎖️ Level: Credit in Computer Skills (Class 6) in International Assessment for Schools (IAL Exams) held in 2010 from BAF Shaheen English Medium School, Dhaka, Bangladesh.<br><br>
 
 ## 📈 Interests
-Apart from application development & side projects, I enjoy exploring new technologies and experimenting with new design ideas for applications using Figma. I have a passion for coding & solving problems through logics. Working on new innovative and useful projects. In my leisure time, I like to read mangas, books & watch animes and videos on technology and design, and I'm an avid fan of football (Arsenal & Real Madrid all the way!). On regular basis I follow the Tennis & Baseball.<br><br>
+Apart from application development & side projects, I enjoy exploring new technologies, learning them and experimenting with new design ideas for applications using Figma. I have a passion for coding & solving problems through logics. Working on new innovative and useful projects. In my leisure time, I like to read mangas, books & watch animes and videos on technology and design, and I'm an avid fan of football (Arsenal & Real Madrid all the way!). On regular basis I follow the Tennis & Baseball.<br><br>
 
 
 ## 🌐 Socials
