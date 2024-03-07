@@ -26,14 +26,6 @@ Experience working with Frontend Projects & UI Designing with React JS, React Na
 Experience working with Backend technologies such as PHP,Node.js and mySQL.<br>
 Knowledge of Git and Version Control. Plus using GitHub Desktop for uploading & updating for all my Projects everyday.<br><br>
 
-## 🎓 Education & Training
-
-#### Attended BAF Shaheen English Medium School (from 2006-2014), Dhaka, Bangladesh.<br>
-#### Completed O Level & A Level in 2016 & 2018 respectivly from British Council, Dhaka, Bangladesh.<br>
-#### Completed Bachelor of Science in Computer Science & Engineering (Bs.CSE), United International University, Bangladesh.<br>
-#### Training to become a Software Quality Assurance & Testing Engineer (SQA Engineer) (on-going)*.<br><br>
-
-
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/amazzyan)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amazzyan/)
