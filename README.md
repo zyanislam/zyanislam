@@ -1,4 +1,4 @@
-# Hi, I'm Zyan 👋
+# Hi, I'm Fahad 👋
 
 Software Engineer at **[Ollyo](https://ollyo.com/)**, based in Bangladesh. On the side I build native macOS and iOS apps in Swift. I study Machine Learning and Human-Computer Interaction in my spare time — planning to pursue an MS / PhD in that intersection, focused on how these ideas translate into real-world applications.
 
